@@ -1,0 +1,13 @@
+Host: opensky.esy.es
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: YandexMetrika
+Allow: /
+Crawl-delay: 1
+
+User-agent: YandexMarket
+Allow: /
+Crawl-delay: 1
